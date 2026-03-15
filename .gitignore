@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except these files
+!README.md
+!ASSETS/
+!ASSETS/**
+!.gitignore
+!LICENSE
